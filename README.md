@@ -1,12 +1,12 @@
-\# 🔥 PySpark Hands-on Practice Project
+# 🔥 PySpark Hands-on Practice Project
 
 
 
 This repository contains hands-on code examples and exercises based on the article:  
 
-\*\*\[Introduction to PySpark](https://medium.com/the-researchers-guide/introduction-to-pyspark-a61f7217398e)\*\*  
+ * * [Introduction to PySpark](https://medium.com/the-researchers-guide/introduction-to-pyspark-a61f7217398e) * *  
 
-by \*The Researcher's Guide\*.
+by  *The Researcher's Guide *.
 
 
 
@@ -14,7 +14,7 @@ by \*The Researcher's Guide\*.
 
 
 
-\## 📌 About This Project
+## 📌 About This Project
 
 
 
@@ -22,15 +22,15 @@ The goal of this project is to practice and reinforce fundamental PySpark concep
 
 
 
-\- Creating a SparkSession
+ - Creating a SparkSession
 
-\- Reading CSV data
+ - Reading CSV data
 
-\- Handling missing values using `Imputer`
+ - Handling missing values using `Imputer`
 
-\- DataFrame operations and transformations
+ - DataFrame operations and transformations
 
-\- Data preprocessing with MLlib features
+ - Data preprocessing with MLlib features
 
 
 
@@ -38,7 +38,7 @@ The goal of this project is to practice and reinforce fundamental PySpark concep
 
 
 
-\## 📂 Dataset Used
+ ## 📂 Dataset Used
 
 
 
@@ -46,19 +46,19 @@ Mock dataset inspired by the `tips` dataset, containing fields like:
 
 
 
-\- `total\_bill`  
+ - `total _bill`  
 
-\- `tip`  
+ - `tip`  
 
-\- `sex`  
+ - `sex`  
 
-\- `smoker`  
+ - `smoker`  
 
-\- `day`  
+ - `day`  
 
-\- `time`  
+ - `time`  
 
-\- `size`  
+ - `size`  
 
 
 
@@ -68,7 +68,7 @@ Includes some null values for preprocessing practice.
 
 Files:
 
-\- `tips\_mock\_data\_with\_nulls.csv`
+- `tips _mock _data _with _nulls.csv`
 
 
 
@@ -76,15 +76,15 @@ Files:
 
 
 
-\## ⚙️ Technologies Used
+ ## ⚙️ Technologies Used
 
 
 
-\- \*\*Python 3.8+\*\*
+ -  * *Python 3.8+ * *
 
-\- \*\*Apache Spark (PySpark 3.x)\*\*
+ -  * *Apache Spark (PySpark 3.x) * *
 
-\- Jupyter Notebook or any Python IDE
+ - Jupyter Notebook or any Python IDE
 
 
 
